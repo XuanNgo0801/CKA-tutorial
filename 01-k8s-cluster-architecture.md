@@ -17,3 +17,6 @@
   + Các dịch vụ vi mô được kết hợp phân tán, đàn hồi, tự do: các ứng dụng được chia thành các phần nhỏ hơn, độc lập và có thể được triển khai cũng như quản lý một cách linh hoạt
   + Cách ly tài nguyên: hiệu suất ứng dụng có thể dự đoán được.
   + Sử dụng tài nguyên: hiệu quả và mật độ cao.
+- K8s cung cấp khả năng:
+  + Phát hiện dịch vụ và cân bằng tải: Kubernetes có thể hiển thị container bằng cách sử dụng tên miền DNS hoặc sử dụng địa chỉ IP của chính nó. Nếu lưu lượng truy cập vào container cao, Kubernetes có thể cân bằng tải và phân phối lưu lượng mạng để quá trình triển khai ổn định.
+  + Quản trị, điều phối storage: 
